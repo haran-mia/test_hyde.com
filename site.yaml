@@ -59,3 +59,9 @@ tagger:
             archive_extension: html
             meta:
                 listable: false
+#haran#
+publisher:
+    github:
+        type: hyde.ext.publishers.dvcs.Git
+        path: ../test_hyde.com
+        url: git@github.com:haran-mia/test_hyde.com.github.com.git
